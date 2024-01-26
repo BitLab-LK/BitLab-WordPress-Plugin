@@ -14,7 +14,7 @@ Chavindu Nuwanpriya
 
 ## Installation
 
-1. Download the plugin ZIP file from the [GitHub repository](https://github.com/your-username/bitlab-plugin).
+1. Download the plugin ZIP file from the [GitHub repository](https://github.com/BitLab-LK/BitLab-WordPress-Plugin/).
 2. Extract the ZIP file to your WordPress plugins directory (`wp-content/plugins/`).
 3. Activate the plugin through the WordPress admin dashboard.
 
@@ -36,10 +36,6 @@ Chavindu Nuwanpriya
   - Installed Plugins by Chavindu Nuwanpriya
     - Floating Button for VANNi (Version 1.2)
 
-## Screenshots
-
-![BitLab Dashboard](screenshots/bitlab-dashboard.png)
-
 ## Changelog
 
 ### 1.0
@@ -48,7 +44,7 @@ Chavindu Nuwanpriya
 
 ## Support
 
-For any issues or questions, please [create a new issue](https://github.com/your-username/bitlab-plugin/issues).
+For any issues or questions, please [create a new issue](https://github.com/BitLab-LK/BitLab-WordPress-Plugin/issues).
 
 ## License
 
